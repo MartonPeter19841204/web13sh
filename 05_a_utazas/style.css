@@ -1,0 +1,48 @@
+body{
+    width: 80%;
+    background-image: url(vilagterkep.jpg) ;
+    color: #00008B;
+    margin: 20px auto;
+    padding: 10px;
+    font-family: sans-serif 14pt;
+}
+#cim{
+    font-size: 60pt;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 36pt;
+    text-align: center;
+}
+
+#repulo{
+    display: block;
+    margin: auto auto;
+
+}
+
+table{
+   
+    background-color: #C4F4FD;
+    width: 70%;
+    
+}
+table tr td{
+    text-align: left;
+    
+}
+table tr td:last-child{
+    text-align: right;
+}
+#athen{
+    width: 180px;
+    float: left;
+    margin-top: 10px;
+}
+#rodosz{
+    width: 180px;
+    float: left;
+    margin-top: 30px;
+}
